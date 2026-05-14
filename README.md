@@ -13,7 +13,7 @@ For SSINet.py, please download the pre-trained weights for the backbone network 
 # Pre-trained model and testing
 Download the following pre-trained model and put them in ./models/SSINet/, then run test_SAFINet.py.  
 [SSINet_ORSSD](https://pan.baidu.com/s/1RQnxYR3kn-fUjmmVzQRrnQ) (code:SSIN)  
-[SSINet_EORSSD](https://pan.baidu.com/s/1mL0CekNATMHzWkVGlI86xw) (code:SSIN)
+[SSINet_EORSSD](https://pan.baidu.com/s/1mL0CekNATMHzWkVGlI86xw) (code:SSIN)  
 [SSINet_ORSI-4199](https://pan.baidu.com/s/19Xv5kKxpmpVqwREVQUgynQ) (code:SSIN)
 # Evaluation Tool
 You can use the [evaluation tool (MATLAB version)](https://github.com/MathLee/MatlabEvaluationTools) to evaluate the above saliency maps.
