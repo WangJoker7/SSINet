@@ -5,7 +5,7 @@
 # Requirements
 python 3.7 + pytorch 1.9.0 + imageio 2.22.2
 # Saliency maps
-We provide saliency maps of our SSINet on ORSSD and EORSSD datasets.  
+We provide saliency maps of our SSINet on ORSSD, EORSSD and ORSI-4199 datasets.  
 [SSINet](https://pan.baidu.com/s/1xKHnbpECI5k6VbDjNtq2UA) (code:SSIN)
 # Training
 Run train_SSINet.py.  
